@@ -8,11 +8,11 @@ a = ["a",2,5,"bdjfbj"]
 
 
 ynhbtttttttttttttttt
-;gvb
-f/'
-
+=
 
 
 global
 
 tg'
+oklkhjg
+varsgfhfg
