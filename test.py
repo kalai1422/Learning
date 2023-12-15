@@ -7,5 +7,3 @@
 a = ["a",2,5,"bdjfbj"]
 
 
-for i in a:
-    print(i)
